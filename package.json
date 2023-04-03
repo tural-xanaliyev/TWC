@@ -50,7 +50,7 @@
         "react-google-maps": "^9.4.5",
         "react-google-maps-loader": "^4.3.0",
         "react-helmet": "^6.1.0",
-        "react-hook-form": "^7.43.2",
+        "react-hook-form": "^7.43.4",
         "react-icons": "^4.7.1",
         "react-intl": "^5.25.1",
         "react-pro-sidebar": "^0.7.1",
